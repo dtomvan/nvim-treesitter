@@ -255,7 +255,7 @@
     "revision": "e36f054a60c4d9e5ae29567d439fdb8790b53b30"
   },
   "kotlin": {
-    "revision": "e4637037a5fe6f25fe66c305669faa0855f35692"
+    "revision": "826ef28d605d0925a86a99022cd222c96f2d0952"
   },
   "lalrpop": {
     "revision": "7744b56f03ac1e5643fad23c9dd90837fe97291e"
@@ -336,7 +336,7 @@
     "revision": "20239395eacdc2e0923a7e5683ad3605aee7b716"
   },
   "perl": {
-    "revision": "ff1f0ac0f1c678a23f68d0140e75a0da8e11b7b5"
+    "revision": "773da0fd9698aa31b3599476f6c95c95aade84b0"
   },
   "php": {
     "revision": "1a40581b7a899201d7c2b4684ee34490bc306bd6"
@@ -504,7 +504,7 @@
     "revision": "14e47600afef0affffcbfbe1543381b1ac8fbc5c"
   },
   "v": {
-    "revision": "66cf9d3086fb5ecc827cb32c64c5d812ab17d2c6"
+    "revision": "1828a1e6611703371039fdefba955018ac570105"
   },
   "vala": {
     "revision": "8f690bfa639f2b83d1fb938ed3dd98a7ba453e8b"
