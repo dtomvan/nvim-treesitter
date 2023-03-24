@@ -4,7 +4,7 @@
 
 local queries = require "nvim-treesitter.query"
 local ts_utils = require "nvim-treesitter.ts_utils"
-local ts_query = vim.treesitter.query
+local ts_query = require "nvim-treesitter.compat"
 local api = vim.api
 
 local M = {}
